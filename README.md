@@ -8,7 +8,7 @@ Playback Control: Allows pausing, resuming playback, or skipping to the next tra
 
 Current Track Information: Displays the title, artist, and other metadata of the currently playing track.
 
-This project [spotify](https://github.com/Antonyakov/spotify_player).
+This project [spotify_player](https://github.com/Antonyakov/spotify_player).
    
 <li align="center">
     <img src="https://github.com/Antonyakov/spotify/blob/master/Screenshot_1648664610.png" width="300" alt="accessibility text">  
