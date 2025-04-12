@@ -1,4 +1,5 @@
 Spotify Player
+
 The Spotify Player app is a simple music player that allows you to play music, control playback, and display information about the current track.
 
 Features
