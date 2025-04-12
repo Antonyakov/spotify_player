@@ -2,9 +2,6 @@ Spotify Player
 
 The Spotify Player app is a simple music player that allows you to play music, control playback, and display information about the current track.
 
-Features
-Music Playback: Plays music tracks loaded within the app.
-
 Playback Control: Allows pausing, resuming playback, or skipping to the next track.
 
 Current Track Information: Displays the title, artist, and other metadata of the currently playing track.
