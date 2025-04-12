@@ -1,16 +1,17 @@
-# spotify
+Spotify Player
+The Spotify Player app is a simple music player that allows you to play music, control playback, and display information about the current track.
 
-A new Flutter project.
+Features
+Music Playback: Plays music tracks loaded within the app.
 
-## Getting Started
+Playback Control: Allows pausing, resuming playback, or skipping to the next track.
 
-This project is a starting point for a Flutter application.
+Current Track Information: Displays the title, artist, and other metadata of the currently playing track.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project [spotify](https://github.com/Antonyakov/spotify_player).
+   
+<li align="center">
+    <img src="https://github.com/Antonyakov/spotify/blob/master/Screenshot_1648664610.png" width="300" alt="accessibility text">  
+    <img src="https://github.com/Antonyakov/spotify/blob/master/Screenshot_1648664649.png" width="300" alt="accessibility text">
+    <img src="https://github.com/Antonyakov/spotify/blob/master/Screenshot_1648664700.png" width="300" alt="accessibility text">
+</li>
